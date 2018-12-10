@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            SyGuS
+tagline:          
+description:      'Syntax-Guided Synthesis'
+url:              http://sygus.org
+baseurl:          
+
+author:
+  name:           'Saswat Padhi'
+  url:            https://saswatpadhi.github.io
+
+# Configuration
+sidebar_home_link:  false
