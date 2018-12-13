@@ -8,7 +8,7 @@
     {% if node.sidebar_link %}
       <a class="page-link {% if page.url == node.url %} active{% endif %}"
           href="{{ site.baseurl }}{{ node.url }}">
-        <i class="fas fa-fw fa-{{node.icon}}"></i> {{ node.title }}
+        <i class="fas fa-fw fa-{{node.icon}}"></i> &thinsp; {{ node.title }}
       </a>
     {% endif %}
   {% endif %}

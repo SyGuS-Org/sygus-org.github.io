@@ -33,6 +33,7 @@ body {
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
+  text-align: justify;
 }
 
 #sidebar {
@@ -212,23 +213,35 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
+  &.page-link {
+    color: $sidebar-icon-color;
+  }
 
   svg {
     fill: $sidebar-icon-color;
   }
 
+  i {
+    color: $sidebar-icon-color;
+  }
+
   &:hover, &:focus, &.active {
+    color: $sidebar-link-color;
     svg { fill: $sidebar-icon-color; }
+    i {color: $sidebar-link-color;}
   }
 
   &:hover, &:focus {
-    text-decoration: underline;
+    text-decoration: none;
     &.icon {
       text-decoration: none;
     }
+    &.page-link {
+      font-weight: bold;
+    }
   }
 
-  &.active {
+  &.active{
     font-weight: bold;
   }
 }
@@ -243,6 +256,9 @@ body {
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
+  @media (min-width: $large-breakpoint) {
+    margin: 3em 0px;
+  }
 }
 
 #sidebar-icon-links {
@@ -259,7 +275,10 @@ body {
 
 #sidebar nav > * {
   display: block;
-  line-height: 1.75;
+  line-height: 1.5;
+  @media (min-width: $large-breakpoint) {
+    line-height: 2.5;
+  }
 }
 
 #sidebar nav > .icon {

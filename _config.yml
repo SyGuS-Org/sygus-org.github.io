@@ -1,3 +1,5 @@
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "jekyll-theme-hydeout.gemspec", "README.md"]
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
