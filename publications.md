@@ -6,6 +6,12 @@ sidebar_link: true
 sidebar_sort_order: 500
 ---
 
+- **Search-Based Program Synthesis** <br>
+  <small><em>
+    [Rajeev Alur], [Rishabh Singh], [Dana Fisman] and [Armando Solar-Lezama]
+  </em></small> <br>
+  In Communications of the ACM, Volume 61 Issue 12, 2018.
+
 - **[SyGuS-Comp'17: Results and Analysis](/assets/pdf/SyGuS-Comp'17/publication.pdf)** <br>
   <small><em>
     [Rajeev Alur], [Dana Fisman], [Rishabh Singh], [Armando Solar-Lezama]

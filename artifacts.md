@@ -16,9 +16,12 @@ You can use StarExec to check validity of newly created benchmarks,
 run the public solvers on your own set of benchmarks,
 and/or easily and discreetly test your solver against the public or your own benchmarks.
 
-The source code for [three initial solvers](https://github.com/rishabhs/sygus-comp14/tree/master/solvers) (from SyGuS-Comp 2014),
-as well as source code of [a parser for SyGuS-IF](https://github.com/rishabhs/sygus-comp14/tree/master/parser/synthlib2parser)
-are made available on a GitHub, by [Rishabh Singh].
+On GitHub, we have released the source code for
+- [three initial SyGuS solvers](https://github.com/rishabhs/sygus-comp14/tree/master/solvers):
+    - an _enumerative_ solver by Abhishek Udupa,
+    - a _stochastic_ solver by [Mukund Raghothaman], and
+    - a_symbolic_ solver by Garvit Juniwal
+- [a parser for SyGuS-IF](https://github.com/rishabhs/sygus-comp14/tree/master/parser/synthlib2parser).
 
 **UPDATE:**
 We are currently also making the source code for the SyGuS-correctness checker and
