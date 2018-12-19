@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2018 SyGuS Competition
+title: SyGuS-Comp 2018
 icon: medal
 sidebar_link: true
 sidebar_sort_order: 200

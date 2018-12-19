@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2017 SyGuS Competition
+title: SyGuS-Comp 2017
 icon: medal
 ---
 

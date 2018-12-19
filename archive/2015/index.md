@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2015 SyGuS Competition
+title: SyGuS-Comp 2015
 icon: medal
 ---
 

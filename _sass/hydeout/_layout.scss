@@ -256,6 +256,7 @@ body {
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
+  margin-top: 1.5em;
   @media (min-width: $large-breakpoint) {
     margin: 3em 0px;
   }
@@ -275,7 +276,7 @@ body {
 
 #sidebar nav > * {
   display: block;
-  line-height: 1.5;
+  line-height: 1.75;
   @media (min-width: $large-breakpoint) {
     line-height: 2.5;
   }
