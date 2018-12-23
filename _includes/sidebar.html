@@ -2,13 +2,15 @@
   <header>
     <{% if page.title == "Home" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
-        {% unless page.url == "/" %}
+        {% if page.url == "/" %}
+          <img class='logo' src="/assets/img/logo.png" alt="{{ site.title }}"/>
+        {% else %}
           <i class="back-arrow fas fa-fw fa-chevron-left"></i>
-        {% endunless %}
-        {{ site.title }}
+          {{ site.title }}
+        {% endif %}
       </a>
     </{% if page.title == "Home" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
+    <!-- <p class="lead">{{ site.description }}</p> -->
   </header>
 
   <nav id="sidebar-nav-links">

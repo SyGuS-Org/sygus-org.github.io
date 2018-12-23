@@ -80,6 +80,12 @@ body {
   header ~ *, header ~ nav, p.lead {
     display: none;
   }
+
+  .logo {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0px;
+  }
 }
 
 // Make header elements blend into sidebar / background
@@ -108,6 +114,10 @@ body {
 
   // Center sidebar content
   text-align: center;
+
+  .logo {
+    height: 2em;
+  }
 
   // Bigger title
   .site-title {
@@ -161,7 +171,11 @@ body {
     }
   }
 
-  #sidebar {
+  .home #sidebar {
+    .logo {
+      height: 2.8em;
+    }
+  
     .site-title {
       font-size: 3.25rem;
       .back-arrow { display: none; }
