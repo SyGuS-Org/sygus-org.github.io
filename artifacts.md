@@ -20,7 +20,7 @@ On GitHub, we have released the source code for
 - [three initial SyGuS solvers](https://github.com/rishabhs/sygus-comp14/tree/master/solvers):
     - an _enumerative_ solver by Abhishek Udupa,
     - a _stochastic_ solver by [Mukund Raghothaman], and
-    - a_symbolic_ solver by Garvit Juniwal
+    - a _symbolic_ solver by Garvit Juniwal
 - [a parser for SyGuS-IF](https://github.com/rishabhs/sygus-comp14/tree/master/parser/synthlib2parser).
 
 **UPDATE:**

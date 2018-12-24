@@ -101,3 +101,15 @@ button, input[type="submit"] {
     box-shadow: $default-box-shadow;
   }
 }
+
+.only-on-large {
+  @media (max-width: $large-breakpoint) {
+    display: none !important;
+  }
+}
+
+.only-on-small {
+  @media (min-width: $large-breakpoint) {
+    display: none !important;
+  }
+}

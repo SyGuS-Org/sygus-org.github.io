@@ -3,10 +3,11 @@
     <{% if page.title == "Home" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
         {% if page.url == "/" %}
-          <img class='logo' src="/assets/img/logo.png" alt="{{ site.title }}"/>
+          <img class="logo" src="/assets/img/logo.png" alt="{{ site.title }}"/>
         {% else %}
           <i class="back-arrow fas fa-fw fa-chevron-left"></i>
-          {{ site.title }}
+          <span class="only-on-small">{{ site.title }}</span>
+          <img class="logo only-on-large" src="/assets/img/logo.png" alt="{{ site.title }}"/>
         {% endif %}
       </a>
     </{% if page.title == "Home" %}h1{% else %}div{% endif %}>

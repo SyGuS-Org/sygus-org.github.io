@@ -69,6 +69,16 @@ body {
   padding: $section-spacing;
 }
 
+.logo {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 0px;
+  height: 2em;
+  @media (min-width: $large-breakpoint) {
+    height: 2.8em;
+  }
+}
+
 
 /* -----------------------------------------------------------
   Mobile view
@@ -79,12 +89,6 @@ body {
 #sidebar {
   header ~ *, header ~ nav, p.lead {
     display: none;
-  }
-
-  .logo {
-    display: inline-block;
-    text-align: center;
-    margin-bottom: 0px;
   }
 }
 
@@ -114,10 +118,6 @@ body {
 
   // Center sidebar content
   text-align: center;
-
-  .logo {
-    height: 2em;
-  }
 
   // Bigger title
   .site-title {
@@ -171,11 +171,7 @@ body {
     }
   }
 
-  .home #sidebar {
-    .logo {
-      height: 2.8em;
-    }
-  
+  #sidebar {  
     .site-title {
       font-size: 3.25rem;
       .back-arrow { display: none; }
