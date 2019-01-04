@@ -120,8 +120,8 @@ The winners for various tracks are as follows.
 Slides for final presentation of results are [here](/assets/pdf/SyGuS-Comp'17/results-slides.pdf).
 <br>
 Slides for final presentation of solvers:
-[CVC4](/assets/pdf/SyGuS-Comp'17/CVC4.pdf),
-[DryadSynth](/assets/pdf/SyGuS-Comp'17/DryadSynth.pptx),
+[CVC4](/assets/pdf/SyGuS-Comp'17/CVC4.pptx),
+[DryadSynth](/assets/pdf/SyGuS-Comp'17/DryadSynth.pdf),
 [E3Solver](/assets/pdf/SyGuS-Comp'17/E3Solver.pdf),
 [LoopInvGen](/assets/pdf/SyGuS-Comp'17/LoopInvGen.pdf)
 
