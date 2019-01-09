@@ -128,10 +128,10 @@ The winners for various tracks are as follows.
 - **_General_ Track**: CVC4
 
 Slides for final presentation of solvers:
-[CVC4](/assets/pdf/SyGuS-Comp'15/CVC4.pdf),
-[ICE-DT](/assets/pdf/SyGuS-Comp'15/ICE-DT.pdf)
+[CVC4](CVC4.pdf),
+[ICE-DT](ICE-DT.pdf)
 
-A detailed final report is also available [here](/assets/pdf/SyGuS-Comp'15/publication.pdf).
+A detailed final report is also available [here](publication.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}

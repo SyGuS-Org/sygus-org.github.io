@@ -1,38 +1,35 @@
 ---
 layout: page
-title: SyGuS-Comp 2018
+title: SyGuS-Comp 2017
 icon: medal
-sidebar_link: true
-sidebar_sort_order: 200
 ---
 
-The 5<sup>th</sup> Syntax-Guided Synthesis Competition (SyGuS-Comp)
-will take place as a satellite event of FLoC, CAV and SYNT 2018.
+The 4<sup>th</sup> Syntax-Guided Synthesis Competition (SyGuS-Comp)
+will take place as a satellite event of CAV and SYNT 2017.
 
 **UPDATE:**
-SyGuS-Comp 2018 has concluded ([Results](#results)).
+SyGuS-Comp 2017 has concluded ([Results](#results)).
 Congratulations to all winners.
 
 
 ### Important Dates
 
 |------------------|---------------------------------------------------------------------------------|
-| ~~1 May 2018~~   | ~~Deadline for submitting benchmarks~~                                          |
-| ~~1 June 2018~~  | ~~Deadline for submitting the first version of solvers~~                        |
-| ~~14 June 2018~~ | ~~Deadline for submitting the final version of solvers and their descriptions~~ |
-| ~~7 July 2018~~  | ~~Notification of results to authors~~                                          |
-| ~~14 July 2018~~ | ~~Awards ceremony (at FLoC Olympic games, Oxford, UK)~~                         |
-| 18 July 2018     | Solvers presentation (at SYNT'18 workshop)                                      |
+| ~~15 May 2017~~  | ~~Deadline for submitting benchmarks~~                                          |
+| ~~7 June 2017~~  | ~~Deadline for submitting the first version of solvers~~                        |
+| ~~14 June 2017~~ | ~~Deadline for submitting the final version of solvers and their descriptions~~ |
+| ~~14 July 2017~~ | ~~Notification of results to authors~~                                          |
+| 22 July 2017     | Solvers presentation (at SYNT'17 workshop)                                      |
 
 
 ### Call for Participation
 
-This is a call for participation in the 5<sup>th</sup> Syntax-Guided Synthesis Competition
-to be organized as a satellite event of SYNT and CAV 2018 and as part of the FLoC Olympic games.
+This is a call for participation in the 4<sup>th</sup> Syntax-Guided Synthesis Competition
+to be organized as a satellite event of SYNT and CAV 2017.
 
 There has been a lot of recent interest in both using SyGuS solvers for various synthesis applications
 and developing different solving algorithms.
-The SyGuS competition (SyGuS-Comp'18) will allow solvers to compete on a large collection of benchmarks
+The SyGuS competition (SyGuS-Comp'17) will allow solvers to compete on a large collection of benchmarks
 and advance the state-of-the-art for program-synthesis tools.
 We invite authors to submit their SyGuS solvers to this year's SyGuS Competition.
 
@@ -63,16 +60,6 @@ Candidate participants are invited to register on StarExec,
 where they can easily compare their solvers to the previous ones against the public benchmarks.
 
 
-### Scoring Scheme
-
-The scoring system is per track and as follows.
-<br>
-A solver that solved $$ N $$ benchmarks in the track, out of which $$ F $$ benchmarks among the fastest[^1], and
-$$ S $$ benchmarks with an expression size among the smallest[^2] will receive a score: $$ 5 N + 3 F + S $$.
-The solver with highest score will be announced the winner of the track ---
-an honor which will be accompanied by a FLoC 2018 Olympic games medal.
-
-
 ### Tool Submission and Description
 
 We expect tool developers to test their solvers on the public benchmarks,
@@ -90,7 +77,7 @@ but participants are welcomed to submit binaries of proprietary tools as well.
 
 ### Participating Solvers
 
-Five solvers participated in SyGuS-Comp'18:
+Five solvers participated in SyGuS-Comp'17:
 - **CVC4** (in all 5 tracks) <br>
   <small><em>
     [Andrew Reynolds] (University of Iowa), Haniel Barbosa (University of Iowa),
@@ -106,15 +93,17 @@ Five solvers participated in SyGuS-Comp'18:
   <small><em>
     [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
   </em></small>
-- **Horndini** (in INV track) <br>
+- **Euphony** (in all 5 tracks) <br>
   <small><em>
-    [Deepak D'Souza] (IISc, Bangalore), P. Ezudheen (IISc, Bangalore), [P. Madhusudan] (UIUC),
-    [Pranav Garg] (Amazon), [Daniel Neider] (MPI-SWS) and Shubham Ugare (IIT, Guwahati)
+    [Woosuk Lee] (University of Pennsylvania), [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
+  </em></small>
+- **E3Solver** (in PBE-BV track) <br>
+  <small><em>
+    Ammar Ben Khadra (University of Kaiserslautern)
   </em></small>
 - **LoopInvGen** (in INV track) <br>
   <small><em>
-    [Saswat Padhi] (UCLA), [Rahul Sharma] (Microsoft Research, Bangalore)
-    and [Todd Millstein] (UCLA)
+    [Saswat Padhi] (UCLA) and [Todd Millstein] (UCLA)
   </em></small>
 
 
@@ -122,22 +111,21 @@ Five solvers participated in SyGuS-Comp'18:
 
 The winners for various tracks are as follows.
 
-- **_PBE-BV_ Track**: CVC4
+- **_PBE-BV_ Track**: E3Solver
 - **_PBE-Strings_ Track**: CVC4
 - **_INV_ Track**: LoopInvGen
-- **_CLIA_ Track**: CVC4 and DryadSynth
+- **_CLIA_ Track**: CVC4
 - **_General_ Track**: CVC4
 
-Slides for final presentation of results are [here](/assets/pdf/SyGuS-Comp'18/results-slides.pdf).
+Slides for final presentation of results are [here](results-slides.pdf).
 <br>
 Slides for final presentation of solvers:
-[CVC4](/assets/pdf/SyGuS-Comp'18/CVC4.pdf),
-[DryadSynth](/assets/pdf/SyGuS-Comp'18/DryadSynth.pptx),
-[Horndini](/assets/pdf/SyGuS-Comp'18/Horndini.pdf),
-[LoopInvGen](/assets/pdf/SyGuS-Comp'18/LoopInvGen.pdf)
+[CVC4](CVC4.pptx),
+[DryadSynth](DryadSynth.pdf),
+[E3Solver](E3Solver.pdf),
+[LoopInvGen](LoopInvGen.pdf)
 
-[^1]: according to the pseudo-logarithmic time scale used in previous competitions
-[^2]: according to the pseudo-logarithmic size scale used in previous competitions
+A detailed final report is also available [here](publication.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}

@@ -129,9 +129,9 @@ The winners for various tracks are as follows.
 - **_General_ Track**: EUSolver
 
 Slides for final presentation of solvers:
-[ICE-DT](/assets/pdf/SyGuS-Comp'16/ICE-DT.pdf)
+[ICE-DT](ICE-DT.pdf)
 
-A detailed final report is also available [here](/assets/pdf/SyGuS-Comp'16/publication.pdf).
+A detailed final report is also available [here](publication.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}

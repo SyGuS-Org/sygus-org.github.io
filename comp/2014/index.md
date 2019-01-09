@@ -48,7 +48,7 @@ Five solvers participated in SyGuS-Comp'14:
 
 The winner of the competition was the _Enumerative_ (CEGIS) solver.
 
-A detailed final report is available [here](/assets/pdf/SyGuS-Comp'14/publication.pdf).
+A detailed final report is available [here](publication.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}
