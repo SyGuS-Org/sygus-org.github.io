@@ -11,7 +11,7 @@ sidebar_sort_order: 300
   <br>
   <small>
     &nbsp; &nbsp; &middot; 5 tracks, 6 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ EUSolver (General), CVC4 (CLIA, PBE-Strings), E3Solver (PBE-BV), LoopInvGen (INV)
+    &nbsp; &nbsp; &middot; _Winners:_ **EUSolver** (General), **CVC4** (CLIA, PBE-Strings), **E3Solver** (PBE-BV), **LoopInvGen** (INV)
   </small>
 
 - The 3<sup>rd</sup> SyGuS Competition, [SyGuS-Comp 2016](2016) was held
@@ -19,7 +19,7 @@ sidebar_sort_order: 300
   <br>
   <small>
     &nbsp; &nbsp; &middot; 4 tracks, 9 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ EUSolver (General, PBE), CVC4 1.5.1 (CLIA), ICE-DT (INV)
+    &nbsp; &nbsp; &middot; _Winners:_ **EUSolver** (General, PBE), **CVC4** 1.5.1 (CLIA), **ICE-DT** (INV)
   </small>
 
 - The 2<sup>nd</sup> SyGuS Competition, [SyGuS-Comp 2015](2015) was held
@@ -27,7 +27,7 @@ sidebar_sort_order: 300
   <br>
   <small>
     &nbsp; &nbsp; &middot; 3 tracks, 8 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ CVC4 (General, CLIA), ICE-DT (INV)
+    &nbsp; &nbsp; &middot; _Winners:_ **CVC4** (General, CLIA), **ICE-DT** (INV)
   </small>
 
 - The 1<sup>st</sup> SyGuS Competition, [SyGuS-Comp 2014](2014) took place
@@ -36,5 +36,5 @@ sidebar_sort_order: 300
   <br>
   <small>
     &nbsp; &nbsp; &middot; 1 track, 5 solvers <br>
-    &nbsp; &nbsp; &middot; Winner: Enumerative CEGIS Solver
+    &nbsp; &nbsp; &middot; _Winner:_ **Enumerative CEGIS Solver**
   </small>
