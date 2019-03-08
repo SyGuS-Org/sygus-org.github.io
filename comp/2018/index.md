@@ -2,8 +2,6 @@
 layout: page
 title: SyGuS-Comp 2018
 icon: medal
-sidebar_link: true
-sidebar_sort_order: 200
 ---
 
 The 5<sup>th</sup> Syntax-Guided Synthesis Competition (SyGuS-Comp)
