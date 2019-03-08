@@ -24,6 +24,12 @@ will take place as a satellite event of CAV and SYNT 2019.
 </div>
 
 
+### Submission Links
+
+- [Submit benchmarks](/submit/benchmarks)
+- [Register solver](/submit/solver)
+
+
 ### Call for Participation
 
 This is a call for participation in the 6<sup>th</sup> Syntax-Guided Synthesis Competition
@@ -77,6 +83,16 @@ and eliminates several deprecated features of the previous format.
 A comprehensive description of the new input format
 and its differences with respect to the previous format
 is available in the reference document "[_The SyGuS Language Standard Version 2.0_](/assets/pdf/SyGuS-IF_2.0.pdf)".
+
+
+### Benchmarks
+
+We will evaluate the solvers on a subset of public benchmarks and some secret benchmarks.
+The domains of benchmarks include bit-vector manipulation, including bit-vector algorithms,
+concurrency, robotics, string transformations, invariant generation,
+program repair and cryptographic circuits.
+We are still finalizing the set of benchmarks,
+and would appreciate your contribution to the benchmarks as well.
 
 
 ### Evaluation
