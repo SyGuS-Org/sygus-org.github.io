@@ -14,6 +14,8 @@ Congratulations to all winners.
 
 ### Important Dates
 
+<div class="dates" markdown="1">
+
 |------------------|------------------------------------------------------------|
 | ~~30 May 2016~~  | ~~Deadline for submitting benchmarks~~                     |
 | ~~14 June 2016~~ | ~~Deadline for submitting solvers and their descriptions~~ |
@@ -21,11 +23,29 @@ Congratulations to all winners.
 | ~~14 July 2016~~ | ~~Notification of results to authors~~                     |
 | 17 July 2016     | Solvers presentation (at SYNT'16 workshop)                 |
 
+</div>
+
 
 ### Call for Participation
 
 This is a call for participation in the 3<sup>rd</sup> Syntax-Guided Synthesis Competition
 to be organized as a satellite event of SYNT and CAV 2016.
+
+The classical formulation of the program-synthesis problem is to find a program
+that meets a correctness specification given as a logical formula.
+Recent work on program synthesis and program optimization illustrates many
+potential benefits of allowing the user to supplement the logical specification
+with a syntactic template that constrains the space of allowed implementation.
+The motivation is twofold.
+First, narrowing the space of implementations makes the synthesis problem more tractable.
+Second, providing a specific syntax can potentially lead to better optimizations.
+
+The input to the syntax-guided synthesis problem (SyGuS) consists of a background theory,
+a semantic correctness specification for the desired program given by a logical formula,
+and a syntactic set of candidate implementations given by a grammar.
+The computational problem then is to find an implementation from the set of candidate expressions
+that satisfies the specification in the given theory.
+The formulation of the problem builds on SMT-LIB.
 
 There has been a lot of recent interest in both using SyGuS solvers for various synthesis applications
 and developing different solving algorithms.
@@ -45,7 +65,8 @@ This year's competition will have 4 tracks:
 - Conditional Linear Integer Arithmetic track (_CLIA_), and
 - Programming By Examples track (_PBE_).
 
-See [Specification Language](/language.html) for more details about these tracks.
+Check the [specification language](/language_1.0) for more details
+on the formulation of the problems for these tracks.
 
 
 ### Evaluation

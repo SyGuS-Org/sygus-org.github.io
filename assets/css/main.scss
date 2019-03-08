@@ -4,3 +4,9 @@
 ---
 
 @import "hydeout";
+
+.dates {
+    tr :first-child {
+        min-width: 7rem;
+    }
+}

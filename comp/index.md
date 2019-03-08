@@ -11,32 +11,32 @@ sidebar_sort_order: 300
   in conjunction with SYNT@CAV in July 2018 at Oxford, UK.
   <br>
   <small>
-    &nbsp; &nbsp; &middot; 5 tracks, 5 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ **CVC4** (General, CLIA, PBE-Strings, PBE-BV), **DryadSynth** (CLIA), **LoopInvGen** (Inv)
+    &nbsp; &middot; 5 tracks, 5 solvers <br>
+    &nbsp; &middot; _Winners:_ **CVC4** (General, CLIA, PBE-Strings, PBE-BV), **DryadSynth** (CLIA), **LoopInvGen** (Inv)
   </small>
 
 - The 4<sup>th</sup> SyGuS Competition, [SyGuS-Comp 2017](2017) was held
   in conjunction with SYNT@CAV in July 2017 at Heidelberg, Germany.
   <br>
   <small>
-    &nbsp; &nbsp; &middot; 5 tracks, 6 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ **EUSolver** (General), **CVC4** (CLIA, PBE-Strings), **E3Solver** (PBE-BV), **LoopInvGen** (Inv)
+    &nbsp; &middot; 5 tracks, 6 solvers <br>
+    &nbsp; &middot; _Winners:_ **EUSolver** (General), **CVC4** (CLIA, PBE-Strings), **E3Solver** (PBE-BV), **LoopInvGen** (Inv)
   </small>
 
 - The 3<sup>rd</sup> SyGuS Competition, [SyGuS-Comp 2016](2016) was held
   in conjunction with SYNT@CAV in July 2016 at Ontario, Canada.
   <br>
   <small>
-    &nbsp; &nbsp; &middot; 4 tracks, 9 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ **EUSolver** (General, PBE), **CVC4** 1.5.1 (CLIA), **ICE-DT** (Inv)
+    &nbsp; &middot; 4 tracks, 9 solvers <br>
+    &nbsp; &middot; _Winners:_ **EUSolver** (General, PBE), **CVC4** 1.5.1 (CLIA), **ICE-DT** (Inv)
   </small>
 
 - The 2<sup>nd</sup> SyGuS Competition, [SyGuS-Comp 2015](2015) was held
   in conjunction with SYNT@CAV in July 2015 at San Francisco, California, USA.
   <br>
   <small>
-    &nbsp; &nbsp; &middot; 3 tracks, 8 solvers <br>
-    &nbsp; &nbsp; &middot; _Winners:_ **CVC4** (General, CLIA), **ICE-DT** (Inv)
+    &nbsp; &middot; 3 tracks, 8 solvers <br>
+    &nbsp; &middot; _Winners:_ **CVC4** (General, CLIA), **ICE-DT** (Inv)
   </small>
 
 - The 1<sup>st</sup> SyGuS Competition, [SyGuS-Comp 2014](2014) took place
@@ -44,6 +44,6 @@ sidebar_sort_order: 300
   as a satellite event of SYNT@CAV in July 2014 at Vienna, Austria.
   <br>
   <small>
-    &nbsp; &nbsp; &middot; 1 track, 5 solvers <br>
-    &nbsp; &nbsp; &middot; _Winner:_ **Enumerative CEGIS Solver**
+    &nbsp; &middot; 1 track, 5 solvers <br>
+    &nbsp; &middot; _Winner:_ **Enumerative CEGIS Solver**
   </small>

@@ -1,20 +1,13 @@
 ---
 layout: page
-title: Specification Language
+title: Specification Language (Deprecated)
 icon: scroll
-sidebar_link: true
-sidebar_sort_order: 100
 ---
 
 We propose a standard language for specifying syntax-guided synthesis (SyGuS) problems.
 The SyGuS input format (SyGuS-IF) is closely modeled on [SMT-Lib 2].
-
-Our initial proposal for SyGuS-IF (ver. 1.0) and its extensions can be found [here](/language_1.0).
-However, this original proposal is now deprecated.
-We revised our input format in 2019 and proposed SyGuS-IF ver. 2.0,
-which is more compliant with SMT-LIB version 2.6,
-includes minor changes to the concrete syntax for commands,
-and eliminates several deprecated features of the previous format.
+The original proposal for SyGuS-IF can be found [here](/assets/pdf/SyGuS-IF.pdf).
+This is the specification language used by the SyGuS benchmarks in the _General_ track of the SyGuS-Comp.
 
 Here is an example SyGuS problem for a function named `max2`
 that computes the maximum of two variables `x` and `y`.
@@ -49,8 +42,19 @@ that computes the maximum of two variables `x` and `y`.
 (check-synth)
 ````
 
-A comprehensive description of the new input format
-and its differences with respect to the previous format
-is available in the reference document "[_The SyGuS Language Standard Version 2.0_](/assets/pdf/SyGuS-IF_2.0.pdf)".
+
+### Extensions
+
+Over the years, several extensions to the original SyGuS-IF have been proposed for aiding specific synthesis scenarios.
+
+- In 2015, we proposed the `CLIA` and `INV` extensions: [SyGuS-IF 2015](/assets/pdf/SyGuS-IF_2015.pdf)
+- In 2016, we proposed the `PBE` extension: [SyGuS-IF 2016](/assets/pdf/SyGuS-IF_2016.pdf)
+
+
+**UPDATE:**
+We are currently in the process of drafting SyGuS-IF 2.0
+which in addition to addressing several issues with the original SyGuS-IF,
+also consolidates these extensions.
+Stay tuned!
 
 [SMT-Lib 2]: http://smtlib.cs.uiowa.edu/language.shtml
