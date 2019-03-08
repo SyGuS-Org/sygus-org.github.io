@@ -61,7 +61,7 @@ For questions regarding the competition please contact the organizers at <sygus-
 This year's competition will have 4 tracks:
 <br>
 - General SyGuS track (_General_),
-- Invariant synthesis track (_INV_),
+- Invariant synthesis track (_Inv_),
 - Conditional Linear Integer Arithmetic track (_CLIA_), and
 - Programming By Examples track (_PBE_).
 
@@ -98,7 +98,7 @@ but participants are welcomed to submit binaries of proprietary tools as well.
 ### Participating Solvers
 
 Nine solvers participated in SyGuS-Comp'16:
-- **Alchemist-CS** (in CLIA and INV tracks) <br>
+- **Alchemist-CS** (in CLIA and Inv tracks) <br>
   <small><em>
     [Daniel Neider] (UIUC), Shambwaditya Saha (UIUC) and [P. Madhusudan] (UIUC)
   </em></small>
@@ -125,7 +125,7 @@ Nine solvers participated in SyGuS-Comp'16:
   <small><em>
     [Arjun Radhakrishna] (University of Pennsylvania) and Abhishek Udupa (Microsoft)
   </em></small>
-- **ICE-DT** (in INV track) <br>
+- **ICE-DT** (in Inv track) <br>
   <small><em>
     [Daniel Neider] (UIUC), [P. Madhusudan] (UIUC) and [Pranav Garg] (UIUC)
   </em></small>
@@ -145,7 +145,7 @@ Nine solvers participated in SyGuS-Comp'16:
 The winners for various tracks are as follows.
 
 - **_PBE_ Track**: EUSolver
-- **_INV_ Track**: ICE-DT
+- **_Inv_ Track**: ICE-DT
 - **_CLIA_ Track**: CVC4
 - **_General_ Track**: EUSolver
 

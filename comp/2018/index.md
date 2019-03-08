@@ -62,7 +62,7 @@ For questions regarding the competition please contact the organizers at <sygus-
 This year's competition will have 5 tracks:
 <br>
 - General SyGuS track (_General_),
-- Invariant synthesis track (_INV_),
+- Invariant synthesis track (_Inv_),
 - Conditional Linear Integer Arithmetic track (_CLIA_),
 - Programming By Examples [Theory of Strings] track (_PBE-Strings_), and
 - Programming By Examples [Theory of Bit Vectors] track (_PBE-BV_).
@@ -116,7 +116,7 @@ Five solvers participated in SyGuS-Comp'18:
     Andres Notzli (Stanford University), [Cesare Tinelli] (University of Iowa)
     and [Clark Barrett] (Stanford University)
   </em></small>
-- **DryadSynth** (in INV and CLIA tracks) <br>
+- **DryadSynth** (in Inv and CLIA tracks) <br>
   <small><em>
     KangJing Huang (Purdue University), [Xiaokang Qiu] (Purdue University)
     and Yanjun Wang (Purdue University)
@@ -125,12 +125,12 @@ Five solvers participated in SyGuS-Comp'18:
   <small><em>
     [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
   </em></small>
-- **Horndini** (in INV track) <br>
+- **Horndini** (in Inv track) <br>
   <small><em>
     [Deepak D'Souza] (IISc, Bangalore), P. Ezudheen (IISc, Bangalore), [P. Madhusudan] (UIUC),
     [Pranav Garg] (Amazon), [Daniel Neider] (MPI-SWS) and Shubham Ugare (IIT, Guwahati)
   </em></small>
-- **LoopInvGen** (in INV track) <br>
+- **LoopInvGen** (in Inv track) <br>
   <small><em>
     [Saswat Padhi] (UCLA), [Rahul Sharma] (Microsoft Research, Bangalore)
     and [Todd Millstein] (UCLA)
@@ -143,7 +143,7 @@ The winners for various tracks are as follows.
 
 - **_PBE-BV_ Track**: CVC4
 - **_PBE-Strings_ Track**: CVC4
-- **_INV_ Track**: LoopInvGen
+- **_Inv_ Track**: LoopInvGen
 - **_CLIA_ Track**: CVC4 and DryadSynth
 - **_General_ Track**: CVC4
 

@@ -61,7 +61,7 @@ For questions regarding the competition please contact the organizers at <sygus-
 This year's competition will have 5 tracks:
 <br>
 - General SyGuS track (_General_),
-- Invariant synthesis track (_INV_),
+- Invariant synthesis track (_Inv_),
 - Conditional Linear Integer Arithmetic track (_CLIA_),
 - Programming By Examples [Theory of Strings] track (_PBE-Strings_), and
 - Programming By Examples [Theory of Bit Vectors] track (_PBE-BV_).
@@ -105,7 +105,7 @@ Five solvers participated in SyGuS-Comp'17:
     Andres Notzli (Stanford University), [Cesare Tinelli] (University of Iowa)
     and [Clark Barrett] (Stanford University)
   </em></small>
-- **DryadSynth** (in INV and CLIA tracks) <br>
+- **DryadSynth** (in Inv and CLIA tracks) <br>
   <small><em>
     KangJing Huang (Purdue University), [Xiaokang Qiu] (Purdue University)
     and Yanjun Wang (Purdue University)
@@ -122,7 +122,7 @@ Five solvers participated in SyGuS-Comp'17:
   <small><em>
     Ammar Ben Khadra (University of Kaiserslautern)
   </em></small>
-- **LoopInvGen** (in INV track) <br>
+- **LoopInvGen** (in Inv track) <br>
   <small><em>
     [Saswat Padhi] (UCLA) and [Todd Millstein] (UCLA)
   </em></small>
@@ -134,7 +134,7 @@ The winners for various tracks are as follows.
 
 - **_PBE-BV_ Track**: E3Solver
 - **_PBE-Strings_ Track**: CVC4
-- **_INV_ Track**: LoopInvGen
+- **_Inv_ Track**: LoopInvGen
 - **_CLIA_ Track**: CVC4
 - **_General_ Track**: CVC4
 

@@ -65,7 +65,7 @@ For questions regarding the competition please contact the organizers at <sygus-
 This year's competition will have 5 tracks:
 <br>
 - General SyGuS track (_General_),
-- Invariant synthesis track (_INV_),
+- Invariant synthesis track (_Inv_),
 - Conditional Linear Integer Arithmetic track (_CLIA_),
 - Programming By Examples [Theory of Strings] track (_PBE-Strings_), and
 - Programming By Examples [Theory of Bit Vectors] track (_PBE-BV_).
