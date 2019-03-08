@@ -6,25 +6,25 @@ sidebar_link: true
 sidebar_sort_order: 500
 ---
 
-- **Search-Based Program Synthesis** <br>
+- **[Search-Based Program Synthesis](/assets/pdf/CACM'18_Search-based_Program_Synthesis.pdf)** <br>
   <small><em>
     [Rajeev Alur], [Rishabh Singh], [Dana Fisman] and [Armando Solar-Lezama]
   </em></small> <br>
   In Communications of the ACM, Volume 61 Issue 12, 2018.
 
-- **[SyGuS-Comp'17: Results and Analysis](/assets/pdf/SyGuS-Comp'17/publication.pdf)** <br>
+- **[SyGuS-Comp'17: Results and Analysis](/comp/2017/publication.pdf)** <br>
   <small><em>
     [Rajeev Alur], [Dana Fisman], [Rishabh Singh], [Armando Solar-Lezama]
   </em></small> <br>
   In Proceedings 4th Workshop on Synthesis (SYNT@CAV), 2017.
 
-- **[SyGuS-Comp'16: Results and Analysis](/assets/pdf/SyGuS-Comp'16/publication.pdf)** <br>
+- **[SyGuS-Comp'16: Results and Analysis](/comp/2016/publication.pdf)** <br>
   <small><em>
     [Rajeev Alur], [Dana Fisman], [Rishabh Singh], [Armando Solar-Lezama]
   </em></small> <br>
   In Proceedings 4th Workshop on Synthesis (SYNT@CAV), 2016.
 
-- **[Results and Analysis of SyGuS-Comp'15](/assets/pdf/SyGuS-Comp'15/publication.pdf)** <br>
+- **[Results and Analysis of SyGuS-Comp'15](/comp/2015/publication.pdf)** <br>
   <small><em>
     [Rajeev Alur], [Dana Fisman], [Rishabh Singh], [Armando Solar-Lezama]
   </em></small> <br>
