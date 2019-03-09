@@ -10,6 +10,7 @@ tagline:
 description:      'Syntax-Guided Synthesis'
 url:              http://sygus.org
 baseurl:          
+permalink:        pretty
 
 author:
   name:           'Saswat Padhi'
