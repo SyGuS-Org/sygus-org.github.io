@@ -23,7 +23,7 @@ The annual SyGuS competition (SyGuS-Comp) is organized by:
   - [Saswat Padhi] (University of California, Los Angeles)
   - [Andrew Reynolds] (University of Iowa)
   - [Rishabh Singh] (Google Brain)
-  - Abhishek Udupa (Microsoft)
+  - [Abhishek Udupa] (Microsoft)
 
 The competition was initiated as part of the NSF ExCAPE grant [#1138996].
 

@@ -112,11 +112,11 @@ Five solvers participated in SyGuS-Comp'17:
   </em></small>
 - **EUSolver** (in all 5 tracks) <br>
   <small><em>
-    [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
+    [Arjun Radhakrishna] (Microsoft) and [Abhishek Udupa] (Microsoft)
   </em></small>
 - **Euphony** (in all 5 tracks) <br>
   <small><em>
-    [Woosuk Lee] (University of Pennsylvania), [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
+    [Woosuk Lee] (University of Pennsylvania), [Arjun Radhakrishna] (Microsoft) and [Abhishek Udupa] (Microsoft)
   </em></small>
 - **E3Solver** (in PBE-BV track) <br>
   <small><em>

@@ -36,7 +36,7 @@ sidebar_sort_order: 500
     [Rajeev Alur], [Ratislav Bodik], Eric Dallal, [Dana Fisman], [Pranav Garg],
     Garvit Juniwal, [Hadas Kress-Gazit], [P. Madhusudan], [Milo M. K. Martin],
     [Mukund Raghothaman], Shamwaditya Saha, [Sanjit A. Seshia],
-    [Rishabh Singh], [Armando Solar-Lezama], [Emina Torlak] and Abhishek Udupa
+    [Rishabh Singh], [Armando Solar-Lezama], [Emina Torlak] and [Abhishek Udupa]
   </em></small> <br>
   In Dependable Software Systems Engineering, NATO Science for Peace and Security Series.
 
@@ -44,7 +44,7 @@ sidebar_sort_order: 500
   <small><em>
     [Rajeev Alur], [Ratislav Bodik], Garvit Juniwal, [Milo M. K. Martin],
     [Mukund Raghothaman], [Sanjit A. Seshia], [Rishabh Singh],
-    [Armando Solar-Lezama], [Emina Torlak] and Abhishek Udupa
+    [Armando Solar-Lezama], [Emina Torlak] and [Abhishek Udupa]
   </em></small> <br>
   In the 13th International Conference on Formal Methods in Computer-Aided Design (_FMCAD_), 2013.
 

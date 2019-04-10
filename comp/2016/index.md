@@ -119,11 +119,11 @@ Nine solvers participated in SyGuS-Comp'16:
   </em></small>
 - **Enumerative** (in General and PBE tracks) <br>
   <small><em>
-    Abhishek Udupa (University of Pennsylvania)
+    [Abhishek Udupa] (University of Pennsylvania)
   </em></small>
 - **EUSolver** (in all 4 tracks) <br>
   <small><em>
-    [Arjun Radhakrishna] (University of Pennsylvania) and Abhishek Udupa (Microsoft)
+    [Arjun Radhakrishna] (University of Pennsylvania) and [Abhishek Udupa] (Microsoft)
   </em></small>
 - **ICE-DT** (in Inv track) <br>
   <small><em>

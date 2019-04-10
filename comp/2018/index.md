@@ -123,7 +123,7 @@ Five solvers participated in SyGuS-Comp'18:
   </em></small>
 - **EUSolver** (in all 5 tracks) <br>
   <small><em>
-    [Arjun Radhakrishna] (Microsoft) and Abhishek Udupa (Microsoft)
+    [Arjun Radhakrishna] (Microsoft) and [Abhishek Udupa] (Microsoft)
   </em></small>
 - **Horndini** (in Inv track) <br>
   <small><em>

@@ -27,7 +27,7 @@ Five solvers participated in SyGuS-Comp'14:
   </em></small>
 - **Enumerative** <br>
   <small><em>
-    Abhishek Udupa (University of Pennsylvania)
+    [Abhishek Udupa] (University of Pennsylvania)
   </em></small>
 - **Sketch** <br>
   <small><em>

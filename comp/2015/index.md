@@ -119,7 +119,7 @@ Eight solvers participated in SyGuS-Comp'15:
   </em></small>
 - **Enumerative** (in General and PBE tracks) <br>
   <small><em>
-    Abhishek Udupa (University of Pennsylvania)
+    [Abhishek Udupa] (University of Pennsylvania)
   </em></small>
 - **ICE-DT** (in Inv track) <br>
   <small><em>
