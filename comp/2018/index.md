@@ -155,6 +155,8 @@ Slides for final presentation of solvers:
 [Horndini](Horndini.pdf),
 [LoopInvGen](LoopInvGen.pdf)
 
+A detailed final report is also available [here](report.pdf).
+
 [^1]: according to the pseudo-logarithmic time scale used in previous competitions
 [^2]: according to the pseudo-logarithmic size scale used in previous competitions
 

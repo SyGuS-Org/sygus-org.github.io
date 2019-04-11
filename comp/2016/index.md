@@ -152,7 +152,7 @@ The winners for various tracks are as follows.
 Slides for final presentation of solvers:
 [ICE-DT](ICE-DT.pdf)
 
-A detailed final report is also available [here](publication.pdf).
+A detailed final report is also available [here](report.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}

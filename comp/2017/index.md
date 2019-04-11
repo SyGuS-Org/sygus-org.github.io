@@ -146,7 +146,7 @@ Slides for final presentation of solvers:
 [E3Solver](E3Solver.pdf),
 [LoopInvGen](LoopInvGen.pdf)
 
-A detailed final report is also available [here](publication.pdf).
+A detailed final report is also available [here](report.pdf).
 
 {% include common_links.md %}
 {% include common_abbrv.md %}
