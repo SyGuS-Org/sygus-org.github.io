@@ -8,7 +8,7 @@ highlighter:      rouge
 title:            SyGuS
 tagline:          
 description:      'Syntax-Guided Synthesis'
-url:              http://sygus.org
+url:              https://sygus.org
 baseurl:          
 permalink:        pretty
 
