@@ -16,8 +16,8 @@ will take place as a satellite event of CAV and SYNT 2019.
 
 |------------------|---------------------------------------------------------------------------------|
 | ~~1 May 2019~~   | ~~Deadline for submitting benchmarks~~                                          |
-| 1 June 2019      | Deadline for submitting the first version of solvers                            |
-| 14 June 2019     | Deadline for submitting the final version of solvers and their descriptions     |
+| ~~1 June 2019~~  | ~~Deadline for submitting the first version of solvers~~                        |
+| ~~14 June 2019~~ | ~~Deadline for submitting the final version of solvers and their descriptions~~ |
 | 7 July 2019      | Notification of results to authors                                              |
 | 13/14 July 2019  | Solvers presentation (at SYNT'19 workshop)                                      |
 
@@ -27,7 +27,7 @@ will take place as a satellite event of CAV and SYNT 2019.
 ### Submission Links
 
 - ~~[Submit benchmarks](/submit/benchmarks)~~
-- [Register solver](/submit/solver)
+- ~~[Register solver](/submit/solver)~~
 
 
 ### Call for Participation
