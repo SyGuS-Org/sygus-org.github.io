@@ -2,6 +2,7 @@
 layout: page
 title: Related Publications
 icon: copy
+
 sidebar_link: true
 sidebar_sort_order: 500
 ---

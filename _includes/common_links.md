@@ -8,12 +8,14 @@
 [Daniel Neider]: https://people.mpi-sws.org/~neider/
 [Deepak D'Souza]: https://drona.csa.iisc.ac.in/~deepakd/
 [Emina Torlak]: https://homes.cs.washington.edu/~emina/
+[Haniel Barbosa]: http://homepage.divms.uiowa.edu/~hbarbosa/
 [Hadas Kress-Gazit]: https://research.cornell.edu/researchers/hadas-kress-gazit
 [Jeffrey S. Foster]: https://www.cs.tufts.edu/~jfoster/
 [Milo M. K. Martin]: http://www.cis.upenn.edu/~milom/
 [Mukund Raghothaman]: https://www.cis.upenn.edu/~rmukund/
 [P. Madhusudan]: http://madhu.cs.illinois.edu/
 [Pranav Garg]: http://pranav-garg.com/
+[Prateek Jain]: http://www.prateekjain.org
 [Rahul Sharma]: https://www.microsoft.com/en-us/research/people/rahsha/
 [Rajeev Alur]: http://www.cis.upenn.edu/~alur/
 [Ratislav Bodik]: https://homes.cs.washington.edu/~bodik/

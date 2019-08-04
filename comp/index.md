@@ -2,9 +2,18 @@
 layout: page
 title: Past Competitions
 icon: archive
+
 sidebar_link: true
 sidebar_sort_order: 300
 ---
+
+- The 6<sup>th</sup> SyGuS Competition, [SyGuS-Comp 2019](2019) was held
+  in conjunction with SYNT@CAV in July 2019 at New York City, USA.
+  <br>
+  <small>
+    &nbsp; &middot; 5 tracks, 4 solvers <br>
+    &nbsp; &middot; _Winners:_ **CVC4** (General, Inv, PBE-Strings, PBE-BV), **DryadSynth** (CLIA)
+  </small>
 
 - The 5<sup>th</sup> SyGuS Competition, [SyGuS-Comp 2018](2018) was held
   at the FLoC Olympic games at the 2018 Federated Logic Conference,

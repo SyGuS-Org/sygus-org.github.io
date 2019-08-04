@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 icon: paper-plane
+
 sidebar_link: true
 sidebar_sort_order: 600
 ---

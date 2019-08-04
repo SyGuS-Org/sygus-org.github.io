@@ -132,7 +132,7 @@ Five solvers participated in SyGuS-Comp'18:
   </em></small>
 - **LoopInvGen** (in Inv track) <br>
   <small><em>
-    [Saswat Padhi] (UCLA), [Rahul Sharma] (Microsoft Research, Bangalore)
+    [Saswat Padhi] (UCLA), [Rahul Sharma] (Microsoft Research, India)
     and [Todd Millstein] (UCLA)
   </em></small>
 

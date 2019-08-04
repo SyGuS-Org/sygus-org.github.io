@@ -2,6 +2,7 @@
 layout: page
 title: SyGuS-Comp 2019
 icon: medal
+
 sidebar_link: true
 sidebar_sort_order: 200
 ---
@@ -9,17 +10,21 @@ sidebar_sort_order: 200
 The 6<sup>th</sup> Syntax-Guided Synthesis Competition (SyGuS-Comp)
 will take place as a satellite event of CAV and SYNT 2019.
 
+**UPDATE:**
+SyGuS-Comp 2019 has concluded ([Results](#results)).
+Congratulations to all winners.
+
 
 ### Important Dates
 
 <div class="dates" markdown="1">
 
-|------------------|---------------------------------------------------------------------------------|
-| ~~1 May 2019~~   | ~~Deadline for submitting benchmarks~~                                          |
-| ~~1 June 2019~~  | ~~Deadline for submitting the first version of solvers~~                        |
-| ~~14 June 2019~~ | ~~Deadline for submitting the final version of solvers and their descriptions~~ |
-| 7 July 2019      | Notification of results to authors                                              |
-| 13/14 July 2019  | Solvers presentation (at SYNT'19 workshop)                                      |
+|---------------------|---------------------------------------------------------------------------------|
+| ~~1 May 2019~~      | ~~Deadline for submitting benchmarks~~                                          |
+| ~~1 June 2019~~     | ~~Deadline for submitting the first version of solvers~~                        |
+| ~~14 June 2019~~    | ~~Deadline for submitting the final version of solvers and their descriptions~~ |
+| ~~7 July 2019~~     | ~~Notification of results to authors~~                                          |
+| 13/14 July 2019     | Solvers presentation (at SYNT'19 workshop)                                      |
 
 </div>
 
@@ -33,7 +38,7 @@ will take place as a satellite event of CAV and SYNT 2019.
 ### Call for Participation
 
 This is a call for participation in the 6<sup>th</sup> Syntax-Guided Synthesis Competition
-to be organized as a satellite event of SYNT and CAV 2019 to be held in New York City.
+to be organized as a satellite event of SYNT and CAV 2019.
 
 The classical formulation of the program-synthesis problem is to find a program
 that meets a correctness specification given as a logical formula.
@@ -129,6 +134,44 @@ All benchmarks will be made public after the competition.
 We encourage the tool developers to make their solvers open-source,
 but participants are welcomed to submit binaries of proprietary tools as well.
 
+
+### Participating Solvers
+
+Four solvers participated in SyGuS-Comp'19:
+- **CVC4** (in all 5 tracks) <br>
+  <small><em>
+    [Andrew Reynolds] (University of Iowa), [Haniel Barbosa] (University of Iowa),
+    Andres Noetzli (Stanford University), [Clark Barrett] (Stanford University)
+    and [Cesare Tinelli] (University of Iowa)
+  </em></small>
+- **DryadSynth** (in Inv and CLIA tracks) <br>
+  <small><em>
+    KangJing Huang (Purdue University), [Xiaokang Qiu] (Purdue University),
+    Peiyuan Shen (Purdue University) and Yanjun Wang (Purdue University)
+  </em></small>
+- **LoopInvGen** (in Inv track) <br>
+  <small><em>
+    [Saswat Padhi] (UCLA), [Rahul Sharma] (Microsoft Research, India)
+    and [Todd Millstein] (UCLA)
+  </em></small>
+- **OASIS** (in Inv track) <br>
+  <small><em>
+    Sahil Bhatia (Microsoft Research, India), [Saswat Padhi] (UCLA), Nagarajan Natarajan (Microsoft Research, India),
+    [Prateek Jain] (Microsoft Research, India) and [Rahul Sharma] (Microsoft Research, India)
+  </em></small>
+
+
+### Results
+
+The winners for various tracks are as follows.
+
+- **_PBE-BV_ Track**: CVC4
+- **_PBE-Strings_ Track**: CVC4
+- **_Inv_ Track**: CVC4
+- **_CLIA_ Track**: DryadSynth
+- **_General_ Track**: CVC4
+
+Slides for final presentation of results are [here](results-slides.pdf).
 
 [^1]: according to the pseudo-logarithmic time scale used in previous competitions
 [^2]: according to the pseudo-logarithmic size scale used in previous competitions
