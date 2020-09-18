@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submit to SyGuS-Comp'19
+title: Submit to SyGuS-Comp
 ---
 
 <h3>&bullet; <a href="benchmarks">Benchmarks</a></h3>
