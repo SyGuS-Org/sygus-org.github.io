@@ -11,7 +11,7 @@ We propose a standard language for specifying syntax-guided synthesis (SyGuS) pr
 The SyGuS input format (SyGuS-IF) is closely modeled on [SMT-Lib 2].
 
 <i class='fas fa-fw fa-file-pdf'></i>
-[The SyGuS Language Standard Version 2.0](/assets/pdf/SyGuS-IF_2.0.pdf)
+[The SyGuS Language Standard Version 2.1](/assets/pdf/SyGuS-IF_2.1.pdf)
 
 Here is an example SyGuS problem for a function named `max2`
 that computes the maximum of two variables `x` and `y`.
@@ -47,9 +47,15 @@ that computes the maximum of two variables `x` and `y`.
 
 Our initial proposal for SyGuS-IF (ver. 1.0) and its extensions can be found [here](/language_1.0).
 However, this original proposal is now deprecated.
-We revised our input format in 2019 and proposed SyGuS-IF ver. 2.0,
+
+We revised our input format in 2019 and proposed [SyGuS-IF ver. 2.0](/assets/pdf/SyGuS-IF_2.0.pdf),
 which is more compliant with SMT-LIB version 2.6,
 includes minor changes to the concrete syntax for commands,
 and eliminates several deprecated features of the previous format.
+
+In 2021, we extended our input format and proposed SyGuS-IF ver. 2.1,
+which includes support for oracle specification and weighted SyGuS,
+a new theory of tables, a new logic for constrained Horn clauses,
+and several syntactic simplifications.
 
 [SMT-Lib 2]: http://smtlib.cs.uiowa.edu/language.shtml
